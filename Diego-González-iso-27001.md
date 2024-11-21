@@ -12,10 +12,10 @@ Es una guia para poder establecer para poder establecer, implementar, mantener y
 La SGSI te dice que es lo que tienes que hacer pero no como hacerlo, esto es porque algunas empresas no pueden cumplir los requisitos y otras si podrán.
 
 ¿En qué se basa el SGSI según la ISO 27001?
-  
+se basa en un ciclo de mejora continua, el cual, se separa en 4 partes: Plan, Do, Chec y Act.
 
 ¿Qué son los controles en la ISO 27001 y dónde se encuentran? 
-
+ son controles del Anexo A, organizados en 4 categorías o dominios principales.
 
 ¿Por qué es importante el apoyo de la alta dirección?
 sin su apoyo, puede atrasar el proyecto y se puede hacer imposible terminarlo.
